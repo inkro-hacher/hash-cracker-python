@@ -8,7 +8,7 @@ This Python script is a hash cracker that supports the following hash algorithms
 
 - **Hash Algorithms Supported:** MD5, SHA1, SHA224, SHA256, SHA384, SHA512
 - **Easy-to-Use:** Simple command-line interface for ease of use.
-- **Custom Wordlist:** You can use a custom wordlist for dictionary attacks.
+- **Custom Wordlist:** You can use a custom wordlist.
 - **Hash Comparison:** The tool compares the hashed values with the provided hash, searching for a match.
 
 ## Requirements
